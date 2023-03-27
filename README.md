@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <p align="center"><a href="https://github.com/diana7127">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diana7127" height="150">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diana7127" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diana7127" height="150">
 </a></p>
 
 <p align="center">
-<a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30"></a>
 <a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" height="30"></a>
+<a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30"></a>
 </p>
 
 <!--
