@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center"><a href="https://diana7127/mpv.net-DW">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diana7127&theme=dracula"></a>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diana7127&theme=dracula">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diana7127&theme=dracula" height="150">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diana7127&theme=dracula" height="150">
 </a></p>
 
 <!--
