@@ -6,8 +6,8 @@
 </a></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30">
-<img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" height="30">
+<a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30"></a>
+<a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" height="30"></a>
 </p>
 
 <!--
