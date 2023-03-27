@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"><a href="https://diana7127/mpv.net-DW">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diana7127&theme=dracula"></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diana7127&theme=dracula">
+</a></p>
+
 <!--
 **diana7127/diana7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
