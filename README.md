@@ -5,6 +5,11 @@
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diana7127&theme=dracula" height="150">
 </a></p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30">
+<img src="https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white" height="30">
+</p>
+
 <!--
 **diana7127/diana7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
