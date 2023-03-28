@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://user-images.githubusercontent.com/125502871/227850635-728cf680-4006-48b2-8f1b-6176b7b87beb.jpg"><img src="https://img.shields.io/badge/Buy_Me_A_Tea-5194EF?style=for-the-badge&logo=alipay&logoColor=white" height="30"></a>
-<a href="https://github.com/diana7127"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FB8B01?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="30"></a>
+<a href="https://www.buymeacoffee.com/diana7127"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FB8B01?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="30"></a>
 </p>
 
 
