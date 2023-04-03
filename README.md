@@ -1,4 +1,6 @@
-### Hello, World! 👋
+<h3 align='center'>
+Hello, World! 👋
+</h3>
 
 <p align="center"><a href="https://github.com/diana7127">
 <img src="https://github-readme-stats.vercel.app/api?username=diana7127" height="150">
