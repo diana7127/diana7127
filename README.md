@@ -14,6 +14,10 @@ Hello, World! 👋
 
 
 <!--
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:5194EF,100:FB8B01&text=Haru&reversal=false&section=header&textBg=false&desc=diana7127&descAlignY=60&fontAlignY=40">
+</a></p>
+
 **diana7127/diana7127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
